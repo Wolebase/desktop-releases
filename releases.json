@@ -1,23 +1,15 @@
 {
-    "version": "v0.1.2",
-    "notes": "V0.1.2",
-    "pub_date": "2022-01-11T16:41:57Z",
+    "version": "v0.1.3",
+    "notes": "V0.1.3",
+    "pub_date": "2023-25-02T16:41:57Z",
     "platforms": {
         "darwin-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlZZmp0YVJIaUJvaEJOZHFYT2FSQUVmNW1oNmJvakx4V0ZadWlCZEVFUVIxQXQ3R2V0RDMzam1YdEJtOGluZFZoaGVkNm50TE1rc2RvRGJ0SDZpdVRSZS8rYVZVWVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczNDQ5MzI5CWZpbGU6RmFpa2Vycy5hcHAudGFyLmd6Cm10cTlmRjhSRnFKRjA3N1k2a3hON1dJbGNKNnNpU2Fpc2RZbTFERFN3djVML2hmVXhjcU9MNEhESHJNZWRHR0Z3YkYrdi9yeG1tNjRqbU9rTzREb0RBPT0K",
-            "url": "https://github.com/Faikers/desktop-releases/releases/download/v0.1.2/Faikers_x64.app.tar.gz"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlZZmp0YVJIaUZTc2Fhb1JxaW9iMEh1dWZMVHIxZm9takhLWnE1blpFczY1bHV5MWtJRnR5UC9pQjY5d1pBUk56QWxWeXIxU1NqbXp2VWxHMEYwbE1ON3hCRHFKbGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc3MzE5OTcxCWZpbGU6V29sZWJhc2UuYXBwLnRhci5negppUDNXWHFqQXhOc0FMckovdUh4NEw4VStjNlp5KzYzcThyK3k4MHYyZzVxTTZzUUp6SXI1bEluVWVDWE95Z00wT01oZWhlTmZJUnNEKzhGZkhUTDhCQT09Cg==",
+            "url": "https://github.com/Wolebase/desktop-releases/releases/download/v0.1.3/Wolebase_universal.app.tar.gz"
         },
         "darwin-aarch64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlZZmp0YVJIaU5zZUsxNVhrTFd5c2VUaHJmSzJkUTNtM1NOZUpTMmFBODBXNDArc2g3cGtDYjVRQklJVGVXRTBOUWxnejBKZE1ESjdpOTB0dU85TnJVaU1lVjl1VEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczNDQ4NDMwCWZpbGU6RmFpa2Vycy5hcHAudGFyLmd6Cit6dGt0VDV2LzE0Yk42N2pPUkViKzJqZjhKQ01rSld4czFlNWVKbEV6Wm1xZ2xYWEFjWE1vbkRiTWhWZ1F6anhJQ3BRUEZrZFZCR1g2Wi9Gazh0NkRnPT0K",
-            "url": "https://github.com/Faikers/desktop-releases/releases/download/v0.1.2/Faikers_aarch64.app.tar.gz"
-        },
-        "linux-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlZZmp0YVJIaUw2dEVwMzFad2tEVXBpd3kxT1pQcVFyeERxNlk1Um1IM1hIaysrMENEZTIva2VEdnhrekJjQjRYR0JETmtQU2luRnh3VDFacXF1SWFUdWpReWFYZ2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczNDQ4ODc4CWZpbGU6ZmFpa2Vyc18wLjEuMl9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKTkJqNUhYMmo4c0prZXBaajZaY24zUXNxYUJ2cm11S0JhRnorQW11d1JCZFhKL1hlcE16SlE0MCtPK0x3ZFZjQmRSMm82QnRwb2RRQWk2amRCdUZHQXc9PQo=",
-            "url": "https://github.com/Faikers/desktop-releases/releases/download/v0.1.2/Faikers_amd64.AppImage.tar.gz"
-        },
-        "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlZZmp0YVJIaUZmMHMrR043dy80MkZsTkpPTGZieXRxTjRhOG5ZQi82dVgvMFNXSUQyVHJ4aWlTcEQxNFo4Zks0MUxyK1R3S0NEU3djbUpaL1pqSkV2SHUxQTZ6M2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczNDQ5MzkxCWZpbGU6RmFpa2Vyc18wLjEuMl94NjRfZW4tVVMubXNpLnppcApiYnlyYUlsVmJaczR6UWVpU1dIY05Lak8rL3NMdVR6U2FhZCtpZUs1WDlYcHJSRUVYRDA1Vmp4RmtkOEJHOGhSdi9CK0t3eWJGZ01rMUFnY0dmT1RBQT09Cg==",
-            "url": "https://github.com/Faikers/desktop-releases/releases/download/v0.1.2/Faikers_x64.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlZZmp0YVJIaUZTc2Fhb1JxaW9iMEh1dWZMVHIxZm9takhLWnE1blpFczY1bHV5MWtJRnR5UC9pQjY5d1pBUk56QWxWeXIxU1NqbXp2VWxHMEYwbE1ON3hCRHFKbGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc3MzE5OTcxCWZpbGU6V29sZWJhc2UuYXBwLnRhci5negppUDNXWHFqQXhOc0FMckovdUh4NEw4VStjNlp5KzYzcThyK3k4MHYyZzVxTTZzUUp6SXI1bEluVWVDWE95Z00wT01oZWhlTmZJUnNEKzhGZkhUTDhCQT09Cg==",
+            "url": "https://github.com/Wolebase/desktop-releases/releases/download/v0.1.3/Wolebase_universal.app.tar.gz"
         }
     }
 }
