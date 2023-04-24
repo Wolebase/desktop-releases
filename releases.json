@@ -1,15 +1,15 @@
 {
-    "version": "v0.1.3",
-    "notes": "V0.1.3",
-    "pub_date": "2023-25-02T16:41:57Z",
+    "version": "v0.2.0",
+    "notes": "V0.2.0",
+    "pub_date": "2023-24-04T16:11:57Z",
     "platforms": {
         "darwin-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlZZmp0YVJIaUZTc2Fhb1JxaW9iMEh1dWZMVHIxZm9takhLWnE1blpFczY1bHV5MWtJRnR5UC9pQjY5d1pBUk56QWxWeXIxU1NqbXp2VWxHMEYwbE1ON3hCRHFKbGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc3MzE5OTcxCWZpbGU6V29sZWJhc2UuYXBwLnRhci5negppUDNXWHFqQXhOc0FMckovdUh4NEw4VStjNlp5KzYzcThyK3k4MHYyZzVxTTZzUUp6SXI1bEluVWVDWE95Z00wT01oZWhlTmZJUnNEKzhGZkhUTDhCQT09Cg==",
-            "url": "https://github.com/Wolebase/desktop-releases/releases/download/v0.1.3/Wolebase_universal.app.tar.gz"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlZZmp0YVJIaUwzUDhUY1RFM0JsWFBudUFJalhMSC82eWsvRFJjMzA2cldzT296OGFER0xDamdIVFJIcktZMkVaRWVFcDczbUdGY3FGZ2V4UCtIN1ZBRGdnRnRNSmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxNDY2MTc2CWZpbGU6V29sZWJhc2UuYXBwLnRhci5negp6N2FrV3BLTDR3QmVCZXBnTFZrU1pDWkdEbE8xUlVwQ08wU1VvVmpjVjNLcUp6ZjBHWGVLL0oyL1ZDR01DK1YrenBRY1p0Zy9EUXNHckdzZTJOMkREZz09Cg==",
+            "url": "https://github.com/Wolebase/desktop-releases/releases/download/v0.2.0/Wolebase_universal.app.tar.gz"
         },
         "darwin-aarch64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlZZmp0YVJIaUZTc2Fhb1JxaW9iMEh1dWZMVHIxZm9takhLWnE1blpFczY1bHV5MWtJRnR5UC9pQjY5d1pBUk56QWxWeXIxU1NqbXp2VWxHMEYwbE1ON3hCRHFKbGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc3MzE5OTcxCWZpbGU6V29sZWJhc2UuYXBwLnRhci5negppUDNXWHFqQXhOc0FMckovdUh4NEw4VStjNlp5KzYzcThyK3k4MHYyZzVxTTZzUUp6SXI1bEluVWVDWE95Z00wT01oZWhlTmZJUnNEKzhGZkhUTDhCQT09Cg==",
-            "url": "https://github.com/Wolebase/desktop-releases/releases/download/v0.1.3/Wolebase_universal.app.tar.gz"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSTlZZmp0YVJIaUwzUDhUY1RFM0JsWFBudUFJalhMSC82eWsvRFJjMzA2cldzT296OGFER0xDamdIVFJIcktZMkVaRWVFcDczbUdGY3FGZ2V4UCtIN1ZBRGdnRnRNSmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxNDY2MTc2CWZpbGU6V29sZWJhc2UuYXBwLnRhci5negp6N2FrV3BLTDR3QmVCZXBnTFZrU1pDWkdEbE8xUlVwQ08wU1VvVmpjVjNLcUp6ZjBHWGVLL0oyL1ZDR01DK1YrenBRY1p0Zy9EUXNHckdzZTJOMkREZz09Cg==",
+            "url": "https://github.com/Wolebase/desktop-releases/releases/download/v0.2.0/Wolebase_universal.app.tar.gz"
         }
     }
 }
